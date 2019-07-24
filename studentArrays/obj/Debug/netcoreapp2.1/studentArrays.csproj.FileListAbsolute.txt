@@ -9,3 +9,14 @@ C:\Users\zeL\grandCircus\labs\grandRepo\studentArrays\studentArrays\obj\Debug\ne
 C:\Users\zeL\grandCircus\labs\grandRepo\studentArrays\studentArrays\obj\Debug\netcoreapp2.1\studentArrays.AssemblyInfo.cs
 C:\Users\zeL\grandCircus\labs\grandRepo\studentArrays\studentArrays\obj\Debug\netcoreapp2.1\studentArrays.dll
 C:\Users\zeL\grandCircus\labs\grandRepo\studentArrays\studentArrays\obj\Debug\netcoreapp2.1\studentArrays.pdb
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab8_studentArrays\studentArrays\obj\Debug\netcoreapp2.1\studentArrays.csprojAssemblyReference.cache
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab8_studentArrays\studentArrays\obj\Debug\netcoreapp2.1\studentArrays.csproj.CoreCompileInputs.cache
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab8_studentArrays\studentArrays\obj\Debug\netcoreapp2.1\studentArrays.AssemblyInfoInputs.cache
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab8_studentArrays\studentArrays\obj\Debug\netcoreapp2.1\studentArrays.AssemblyInfo.cs
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab8_studentArrays\studentArrays\obj\Debug\netcoreapp2.1\studentArrays.dll
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab8_studentArrays\studentArrays\obj\Debug\netcoreapp2.1\studentArrays.pdb
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab8_studentArrays\studentArrays\bin\Debug\netcoreapp2.1\studentArrays.deps.json
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab8_studentArrays\studentArrays\bin\Debug\netcoreapp2.1\studentArrays.runtimeconfig.json
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab8_studentArrays\studentArrays\bin\Debug\netcoreapp2.1\studentArrays.runtimeconfig.dev.json
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab8_studentArrays\studentArrays\bin\Debug\netcoreapp2.1\studentArrays.dll
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab8_studentArrays\studentArrays\bin\Debug\netcoreapp2.1\studentArrays.pdb

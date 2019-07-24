@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zeL\\grandCircus\\labs\\grandRepo\\studentArrays\\studentArrays\\studentArrays.csproj",
+      "projectUniqueName": "C:\\Users\\zeL\\grandCircus\\labs\\grandRepo\\Lab8_studentArrays\\studentArrays\\studentArrays.csproj",
       "projectName": "studentArrays",
-      "projectPath": "C:\\Users\\zeL\\grandCircus\\labs\\grandRepo\\studentArrays\\studentArrays\\studentArrays.csproj",
+      "projectPath": "C:\\Users\\zeL\\grandCircus\\labs\\grandRepo\\Lab8_studentArrays\\studentArrays\\studentArrays.csproj",
       "packagesPath": "C:\\Users\\zeL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zeL\\grandCircus\\labs\\grandRepo\\studentArrays\\studentArrays\\obj\\",
+      "outputPath": "C:\\Users\\zeL\\grandCircus\\labs\\grandRepo\\Lab8_studentArrays\\studentArrays\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
